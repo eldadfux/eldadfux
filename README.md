@@ -2,3 +2,6 @@
 
 [![Twitter](https://badgen.net/badge/icon/@eldadfux?icon=twitter&label)](https://twitter.com/eldadfux)
 [![Medium](https://badgen.net/badge/icon/@eldadfux?icon=medium&label)](https://medium.com/@eldadfux)
+[![Discord](https://img.shields.io/discord/564160730845151244?label=discord)](https://discord.gg/GSeTUeA)
+[![Appwrite](https://badgen.net/badge/appwrite/io)](https://appwrite.io)
+
