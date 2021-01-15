@@ -1,4 +1,4 @@
-[![Linkedin](https://media-exp1.licdn.com/dms/image/C4D16AQEfi_gRWx6SFw/profile-displaybackgroundimage-shrink_200_800/0/1517045642582?e=1616025600&v=beta&t=vjmY0UUCb275RlnYSjrach0nsSTErIPfq6Mkj3GTZOg)](https://www.linkedin.com/in/eldadfux/)
+[![Linkedin](https://media-exp1.licdn.com/dms/image/C4D16AQEfi_gRWx6SFw/profile-displaybackgroundimage-shrink_350_1400/0/1517045642582?e=1616025600&v=beta&t=A42u8yMtxXWpTUGj-sXPjgJgUFyjrIJOS9ekh2H4Y-c)](https://www.linkedin.com/in/eldadfux/)
 
 
 
