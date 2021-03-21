@@ -1,6 +1,4 @@
-[![Linkedin](https://media-exp1.licdn.com/dms/image/C4D16AQEfi_gRWx6SFw/profile-displaybackgroundimage-shrink_350_1400/0/1517045642582?e=1616025600&v=beta&t=A42u8yMtxXWpTUGj-sXPjgJgUFyjrIJOS9ekh2H4Y-c)](https://www.linkedin.com/in/eldadfux/)
-
-
+[![Linkedin](https://user-images.githubusercontent.com/1297371/111899003-4248d780-8a32-11eb-8301-1fb2879dc765.png)](https://www.linkedin.com/in/eldadfux/)
 
 [![Twitter Account](https://img.shields.io/twitter/follow/eldadfux?color=00acee&label=twitter&style=flat-square)](https://twitter.com/eldadfux)
 [![Discord](https://img.shields.io/discord/564160730845151244?label=discord&style=flat-square)](https://appwrite.io/discord)
