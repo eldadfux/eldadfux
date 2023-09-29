@@ -1,4 +1,5 @@
-[![Linkedin](https://user-images.githubusercontent.com/1297371/111899029-73c1a300-8a32-11eb-9825-d09e68039ff1.png)](https://www.linkedin.com/in/eldadfux/)
+<!-- [![Linkedin](https://user-images.githubusercontent.com/1297371/111899029-73c1a300-8a32-11eb-9825-d09e68039ff1.png)](https://www.linkedin.com/in/eldadfux/) -->
+![Twitter - 1584x386 - Gradient - dark](https://github.com/eldadfux/eldadfux/assets/1297371/ea956b7b-0628-48ad-81a4-b8510f2b939c)
 
 <!-- <p align="center">
   <a href="https://makers.appwrite.io/eldadfux" text-align="center">
