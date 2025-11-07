@@ -14,6 +14,6 @@
 
 Hey, I'm Eldad 👋
 
-Founder and CEO [@appwrite](https://appwrite.io), the open source backend platform for web and mobile developers AKA the open source Firebase alternative. 
+Founder and CEO [@appwrite](https://appwrite.io), the open source developers' cloud. 
 
 You can collaborate with me and our awesome team at [appwrite/appwrite](https://github.com/appwrite/appwrite)
